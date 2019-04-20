@@ -8,4 +8,8 @@ cd build
 cmake ..
 make
 
+Go to 
+https://config.xmrig.com/xmrig
+to set configuration specifications for your system
+
 
